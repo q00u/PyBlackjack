@@ -1,0 +1,3 @@
+tasks.json
+.mypy_cache/*
+*.pyc
